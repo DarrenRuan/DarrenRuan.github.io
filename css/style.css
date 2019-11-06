@@ -12,6 +12,15 @@
     text-align: left;
 }
 
+p.sansserif {
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p.serif {
+  font-size: 16px;
+  font-family: "Times New Roman", Times, serif;
+}
 
 @font-face {
   font-family: 'icomoon';
